@@ -1,16 +1,36 @@
-## Hi there 👋
+# Gregory Macczak
 
-<!--
-**Talentclear/Talentclear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Créateur de TalentClear
 
-Here are some ideas to get you started:
+TalentClear est une plateforme digitale spécialisée dans l’emploi et le recrutement en hôtellerie-restauration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+La plateforme facilite la mise en relation entre les candidats, les employeurs et les organismes de formation, avec des outils dédiés au parcours professionnel et au recrutement.
+
+### 🎯 TalentClear
+
+- 👤 Candidats
+- 🏨 Employeurs
+- 🎓 Organismes de formation
+- 📄 CV et candidatures
+- 🔎 Offres d’emploi
+- 🤝 Recrutement
+
+### 🍽️ Notre spécialisation
+
+TalentClear est conçu autour des métiers et des besoins spécifiques de l’hôtellerie-restauration :
+
+- Hôtellerie
+- Restauration
+- Bars et établissements de nuit
+- Cuisine
+- Salle et service
+- Accueil
+- Formation et apprentissage
+
+### 🌐 Découvrir TalentClear
+
+https://www.talentclear.fr
+
+---
+
+**TalentClear — L'emploi et le recrutement spécialisés en hôtellerie-restauration.**
